@@ -1,7 +1,4 @@
-# webdev_week3
-
-
-## **Step 6: Context API**
+## **Context API**
 
 ### **Key Concept: Context API**
 - The Context API is used for state management across components.
